@@ -5,11 +5,12 @@ import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Particles from 'react-particles-js';
 import AboutMe from './components/AboutMe';
+import Portfolio from './components/Portfolio';
 import Services from './components/Services';
 import Testimonials from './components/Testimonials';
 import Contacts from './components/Contacts';
 import Footer from './components/Footer';
-import Portfolio from './components/Portfolio';
+
 
 
 function App() {
@@ -32,11 +33,12 @@ function App() {
   <Navbar/>
   <Header/>
   <AboutMe/>
-  <Services/>SS
+  <Portfolio/>
+  <Services/>
   <Testimonials/>
   <Contacts/>
   <Footer/>
-  <Portfolio/>
+  
   
   </>
   );

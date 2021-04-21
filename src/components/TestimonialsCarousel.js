@@ -19,7 +19,7 @@ const TestimonialsCarousel = () => {
             <>
             <img src={avatar1} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>John Doe 1</h3>
+            <h3>Person 1</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             </>
@@ -27,7 +27,7 @@ const TestimonialsCarousel = () => {
             <>
             <img src={avatar2} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>John Doe 1</h3>
+            <h3>Person 2</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             </>
@@ -35,7 +35,7 @@ const TestimonialsCarousel = () => {
             <>
             <img src={avatar3} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>John Doe 1</h3>
+            <h3>Person 3</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             </>
@@ -43,7 +43,7 @@ const TestimonialsCarousel = () => {
             <>
             <img src={avatar4} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>John Doe 1</h3>
+            <h3>Person 4</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             </>

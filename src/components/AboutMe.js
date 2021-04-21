@@ -13,16 +13,16 @@ return (
             </div>
             <div className='col-lg-6 col-xm-12'>
                 <h1 className='about-heading'>about me</h1>
-                <p>Hello! I am Lidija. Self-taught, proactive and resourceful junior front-end developer
-                    who can build applications from the ground up using an array of technologies. 
+                <p> Hi, I'm Lidija. A self-taught, proactive and resourceful junior front-end developer
+                    who can build websites and applications from the ground up using an array of technologies. 
 
-                    I am passionate about software architecture and design and follow industry trends.
+                    I am passionate about front end development and web design.
 
                     I am tuned to the business needs, always striving to deliver high quality solutions.
                     
-                    I have completed a big number of Udemy classes and had one on one tuition in front end development, 
-                    coupled with my previous experience I feel I will be an asset to any organisation looking 
-                    to employ a developer with limited experience. 
+                    I have completed several Udemy classes, freeCodeCamp and had one on one tuition in front end development. 
+                    Coupled with my previous background I feel I will be an asset to any organisation looking 
+                    to employ a developer with limited experience eager to expand her skills on the job. 
                 </p>
             </div>
         </div>   

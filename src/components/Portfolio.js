@@ -23,11 +23,8 @@ const Portfolio = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={dadJokes} alt='Dad Jokes Project' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
-        <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/DadJokes')}>https://github.com/lcelik/DadJokes</a>
+        
+       <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/DadJokes')}>https://github.com/lcelik/DadJokes</a>
         </>
     )
        
@@ -59,10 +56,7 @@ const openPopupboxeventKeyCode = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={eventKeyCode} alt='Event Key Code' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
+        
         <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/EventKeyCode')}>https://github.com/lcelik/EventKeyCode</a>
         </>
     )
@@ -95,10 +89,7 @@ const openPopupboxexpandingCards = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={expandingCards} alt='Expanding Cards' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
+       
         <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/ExpandingCards')}>https://github.com/lcelik/ExpandingCards</a>
         </>
     )
@@ -132,10 +123,7 @@ const openPopupboxexpandingCards = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={fAQCollapse} alt='FAQ Collapse' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
+       
         <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/ExpandingCards')}>https://github.com/lcelik/ExpandingCards</a>
         </>
     )
@@ -168,10 +156,7 @@ const openPopupboxexpandingCards = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={rotatingNavigation} alt='Rotating Navigation' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
+       
         <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/RotatingNavigation')}>https://github.com/lcelik/RotatingNavigation</a>
         </>
     )
@@ -205,10 +190,7 @@ const openPopupboxexpandingCards = () => {
     const content = (
         <>
         <img className='portfolio-image-popupbox' src={scoreKeeper} alt='Score Keeper' />
-        <p>lorem10
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem perpetuam quis potest praestare sapienti? 
-        At iste non dolendi status non vocatur voluptas. At ille pellit, qui permulcet sensum voluptate.
-        </p>
+        
         <b>GitHub: </b> <a className='hyper-link' onClick={() => window.open('https://github.com/lcelik/ScoreKeeper')}>https://github.com/lcelik/ScoreKeeper</a>
         </>
     )
