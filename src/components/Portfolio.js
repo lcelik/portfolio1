@@ -99,7 +99,7 @@ const openPopupboxexpandingCards = () => {
       content,
       config: {
       titleBar: {
-      text: "Exanding Cards",
+      text: "Expanding Cards",
     },
   },
 });

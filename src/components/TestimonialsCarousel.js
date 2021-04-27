@@ -19,32 +19,33 @@ const TestimonialsCarousel = () => {
             <>
             <img src={avatar1} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>Person 1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h3>Professional developer</h3>
+            <p>Lidija has been an absolute joy to work with and train...</p>
             </div>
             </>
 
             <>
             <img src={avatar2} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>Person 2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h3>Sister</h3>
+            <p>Lidija is the best front end developer in the family.</p>
             </div>
             </>
 
             <>
             <img src={avatar3} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>Person 3</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h3>Next door neighbour</h3>
+            <p>I don't know what this front end malarkey is, but can you please fix my laptop again?</p>
             </div>
             </>
 
             <>
             <img src={avatar4} alt='Avatar'/>
             <div className='myCarousel'>
-            <h3>Person 4</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h3>Sofia the Dog</h3>
+            <p>I don't like it! I haven't been on as many walks since this front end thing started grrrr...
+            </p>
             </div>
             </>
         </Carousel>
